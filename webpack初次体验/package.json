@@ -1,0 +1,15 @@
+{
+  "name": "webpack_test",
+  "version": "1.0.0",
+  "description": "1.webpack初体验时候，需要初始化\r npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
